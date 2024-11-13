@@ -17,6 +17,3 @@ Hello! 👋 I'm Mehrshad<br><br>I’m a web developer passionate about building 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HTTPS-CMD&icon=2&color=12)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=mehrshad&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
