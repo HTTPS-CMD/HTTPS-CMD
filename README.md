@@ -17,9 +17,3 @@
 <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/CONTACT-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
 
 <br>
-
-<sub><strong>AQUA LAUNCH</strong> · animated profile system · powered by live GitHub data</sub>
-
-</div>
-
----
