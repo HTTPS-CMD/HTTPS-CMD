@@ -23,7 +23,3 @@
 </div>
 
 ---
-
-### Deploy this style
-
-Follow [SETUP.md](./SETUP.md) to replace the photo, animate your own name, connect your GitHub data, and enable automatic daily updates.
